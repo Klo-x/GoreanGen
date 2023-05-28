@@ -11,7 +11,7 @@ Update logs
 - Code checker!
 - To much networking
 
-# Donating to klox's projects
+# Donating to If0n's projects
 
 * Tether (Solana) *8bsYncMLMZXdfVg4cK3SW5SW5btzpxoUonDkNXMccjLS*
 
