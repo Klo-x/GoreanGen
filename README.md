@@ -1,5 +1,7 @@
 # GoreanGen
-This is a Discord nitro gen that spawns discord nitro gifts really fast it has a code checker and writes valid codes to a text doc
+Powerfull Discord Nitro Gen and Checker!
+
+Checks About 100-150 Codes Per Second
 
 Update logs
 
